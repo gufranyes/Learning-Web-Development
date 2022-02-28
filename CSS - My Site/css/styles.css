@@ -6,7 +6,7 @@ body {
 
 h1 {
   font-size: 562.5%;
-  margin: 50px auto 0;
+  margin: 100px auto 0;
   font-family: 'Sacramento', cursive;
   color: #66BFBF;
 }
@@ -25,6 +25,12 @@ h3{
 
 a{
   color: #11999E;
+  margin: auto 25px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #eaf6f6;
 }
 
 .top-container {
@@ -55,6 +61,10 @@ hr {
   position: absolute;
   left: 550px;
   bottom: 350px;
+}
+
+.mountain-img{
+  margin-top: 150px;
 }
 
 .skill-row{
@@ -107,14 +117,18 @@ hr {
   margin: 100px;
 }
 
-.bottom-container{
-  background-color: #66BFBF;
+.contact-text{
+  width: 40%;
+  margin: 50px auto 75px;
 }
 
-.footer-link{
-  margin: auto 50px;
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
 }
 
 .footer-text{
   color: #eaf6f6;
+  font-size: 0.75rem;
+  padding-top: 40px;
 }
