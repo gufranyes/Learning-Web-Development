@@ -43,4 +43,4 @@ This repository is an archive for what I have practiced during the course of ["T
 ![CSS Screenshot](https://github.com/gufranyes/Learning-Web-Development/blob/master/CSS%20-%20My%20Site/Screenshots/CSS1.png?raw=true)
 
 ### Bootstrap 4
-![Bootstrap Screenshot](https://github.com/gufranyes/Learning-Web-Development/tree/master/Bootstrap%20-%20TinDog/Screenshots/BS1.png?raw=true)
+![Bootstrap Screenshot](https://github.com/gufranyes/Learning-Web-Development/blob/master/Bootstrap%20-%20TinDog/Screenshots/BS1.png?raw=true)
