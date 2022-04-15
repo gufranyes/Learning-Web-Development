@@ -17,7 +17,7 @@ This repository is an archive for what I have practiced during the course of ["T
 |05   | JavaScript ES6 |
 |06   | Document Object Model (DOM) |
 |07   | [Challenge - The Dicee Game](https://github.com/gufranyes/Learning-Web-Development/tree/master/Challenge%20-%20The%20Dicee%20Game) |
-|08   | Advanced JavaScript & DOM Manipulation |
+|08   | [Advanced JavaScript & DOM Manipulation](https://github.com/gufranyes/Learning-Web-Development/tree/master/Advanced%20JavaScript%20-%20DOM%20Manipulation) |
 |09   | jQuery |
 |10   | Challenge 2 - The Simon Game |
 |11   | The Unix Command Line |
@@ -47,3 +47,6 @@ This repository is an archive for what I have practiced during the course of ["T
 
 ### Challenge - The Dicee Game
 ![Challenge - The Dicee Game Screenshot](https://github.com/gufranyes/Learning-Web-Development/blob/master/Challenge%20-%20The%20Dicee%20Game/Screenshots/Dice1.png?raw=true)
+
+### Advanced JavaScript & DOM Manipulation
+![Advanced JavaScript & DOM Manipulation](https://github.com/gufranyes/Learning-Web-Development/blob/master/Advanced%20JavaScript%20-%20DOM%20Manipulation/Screenshots/DK.png?raw=true)
