@@ -12,7 +12,7 @@ This repository is an archive for what I have practiced during the course of ["T
 | --- | ------------- |
 |01   | [HTML](https://github.com/gufranyes/Learning-Web-Development/tree/master/IntroductionHTML)          |
 |02   | [CSS](https://github.com/gufranyes/Learning-Web-Development/tree/master/CSS%20-%20My%20Site)           |
-|03   | Bootstrap 4 |
+|03   | [Bootstrap 4](https://github.com/gufranyes/Learning-Web-Development/tree/master/Bootstrap%20-%20TinDog) |
 |04   | Design |
 |05   | JavaScript ES6 |
 |06   | Document Object Model (DOM) |
@@ -40,6 +40,7 @@ This repository is an archive for what I have practiced during the course of ["T
 ![IntroductionHTML Screenshot](https://github.com/gufranyes/Learning-Web-Development/blob/master/IntroductionHTML/Screenshots/introductionHTML.png?raw=true)
 
 ### CSS
-![IntroductionHTML Screenshot](https://github.com/gufranyes/Learning-Web-Development/blob/master/CSS%20-%20My%20Site/Screenshots/CSS1.png?raw=true)
+![CSS Screenshot](https://github.com/gufranyes/Learning-Web-Development/blob/master/CSS%20-%20My%20Site/Screenshots/CSS1.png?raw=true)
 
-
+### Bootstrap 4
+![Bootstrap Screenshot](https://github.com/gufranyes/Learning-Web-Development/tree/master/Bootstrap%20-%20TinDog/Screenshots/BS1.png?raw=true)
