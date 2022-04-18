@@ -19,7 +19,7 @@ This repository is an archive for what I have practiced during the course of ["T
 |07   | [Challenge - The Dicee Game](https://github.com/gufranyes/Learning-Web-Development/tree/master/Challenge%20-%20The%20Dicee%20Game) |
 |08   | [Advanced JavaScript & DOM Manipulation](https://github.com/gufranyes/Learning-Web-Development/tree/master/Advanced%20JavaScript%20-%20DOM%20Manipulation) |
 |09   | [jQuery](https://github.com/gufranyes/Learning-Web-Development/tree/master/jQuery) |
-|10   | Challenge 2 - The Simon Game |
+|10   | [Challenge 2 - The Simon Game](https://github.com/gufranyes/Learning-Web-Development/tree/master/Challenge%202%20-%20The%20Simon%20Game) |
 |11   | The Unix Command Line |
 |12   | Node.js |
 |13   | Express.js with Node.js |
@@ -50,3 +50,6 @@ This repository is an archive for what I have practiced during the course of ["T
 
 ### Advanced JavaScript & DOM Manipulation
 ![Advanced JavaScript & DOM Manipulation](https://github.com/gufranyes/Learning-Web-Development/blob/master/Advanced%20JavaScript%20-%20DOM%20Manipulation/Screenshots/DK.png?raw=true)
+
+### Challenge 2 - The Simon Game
+![Challenge 2 - The Simon Game](https://github.com/gufranyes/Learning-Web-Development/blob/master/Challenge%202%20-%20The%20Simon%20Game/Screenshots/SimonStart.png?raw=true)
